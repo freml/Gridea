@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://frep.ml</id>
+    <title>一个破站</title>
+    <updated>2022-07-05T11:58:23.941Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://frep.ml"/>
+    <link rel="self" href="https://frep.ml/atom.xml"/>
+    <subtitle>青丝已白发，徒留下那段牵挂</subtitle>
+    <logo>https://frep.ml/images/avatar.png</logo>
+    <icon>https://frep.ml/favicon.ico</icon>
+    <rights>All rights reserved 2022, 一个破站</rights>
+    <entry>
+        <title type="html"><![CDATA[GitHub文件下载加速下载网站汇总]]></title>
+        <id>https://frep.ml/post/github-cdn/</id>
+        <link href="https://frep.ml/post/github-cdn/">
+        </link>
+        <updated>2022-07-04T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://frep.ml/post/hello-gridea/</id>
+        <link href="https://frep.ml/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+    </entry>
+</feed>
